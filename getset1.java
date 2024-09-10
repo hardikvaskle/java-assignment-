@@ -19,7 +19,7 @@ class Employee{
     } 
 }
 
-public class getset {
+public class getset1 {
     public static void main(String[] args) {
         Employee tiku = new Employee();
       
