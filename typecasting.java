@@ -15,10 +15,7 @@ public class typecasting {
                 
           int data = (int) num;
           System.out.println("The integer value: " + data);
-                  
-        
-
-        
+                    
     }
     
 }
