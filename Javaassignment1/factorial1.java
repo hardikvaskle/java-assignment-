@@ -1,8 +1,7 @@
 //factorial of 12
-public class factorial {
+public class factorial1 {
     public static void main(String[] args) {
-        
-    int number = 12; 
+        int number = 12; 
             long factorial = 1; 
     
             for(int i = 1; i <= number; i++) {
@@ -10,5 +9,5 @@ public class factorial {
             }
     
             System.out.println("The factorial of " + number + " is " + factorial);
-        }
+    }
 }
